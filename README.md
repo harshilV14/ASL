@@ -32,7 +32,8 @@ We have mainly used Python and some of its libraries and tools to build this pro
    ```bash
    git clone https://github.com/ChirayuDodiya/ASL-to-Text
 
-    Install required packages: 
+2. Install required packages:
+   ```bash
     pip install -r requirements.txt
 
 ## 🏗 Process Overview
