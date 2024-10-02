@@ -74,14 +74,6 @@ The process of developing the ASL to Text Converter involves three main steps: d
 
 
 
-## 🤝 Contributors
-
-- [@Chirayu Dodiya](https://github.com/ChirayuDodiya)
-- [@Mayank](https://github.com/likemacc)
-- [@Nandini Gadhvi](https://github.com/NadiniGadhvi)
-- [@Abhishek Guna](https://github.com/HINOKAM-ii)
-- [@Harshil Vasava](https://github.com/harshilV14)
-
 
 ## 🎥 Demo
 
@@ -121,9 +113,16 @@ Watch the following video to see the ASL to Text Converter in action:
 - Ensure you are in a well-lit area for better gesture recognition.
 - If the model does not recognize your signs accurately, consider retraining the model with more diverse data samples.
 
-### Feedback
 
-We welcome feedback! If you have any suggestions or issues, please open an issue on our GitHub repository.
+## 🤝 Contributors
+
+- [@Chirayu Dodiya](https://github.com/ChirayuDodiya)
+- [@Mayank](https://github.com/likemacc)
+- [@Nandini Gadhvi](https://github.com/NadiniGadhvi)
+- [@Abhishek Guna](https://github.com/HINOKAM-ii)
+- [@Harshil Vasava](https://github.com/harshilV14)
+
+
 
 
 
