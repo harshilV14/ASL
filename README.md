@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=1000&width=435&lines=%F0%9F%A4%9F+ASL+to+Text+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&duration=2500&pause=1000&width=446&height=70&lines=%F0%9F%A4%9F+ASL+to+Text+)](https://git.io/typing-svg)
 
 **Communication** is the act of transferring information from one place to another. Being able to communicate effectively is perhaps the most important of all life skills. It is what enables us to pass information to other people, and to understand what is said to us.
 Sign languages are an extremely important communication tool for many deaf and hard-of-hearing people and also for people who cannot speak.
