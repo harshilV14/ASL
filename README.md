@@ -1,6 +1,9 @@
 
 # 🤟 ASL to Text
 
+**Communication** is the act of transferring information from one place to another. Being able to communicate effectively is perhaps the most important of all life skills. It is what enables us to pass information to other people, and to understand what is said to us.
+Sign languages are an extremely important communication tool for many deaf and hard-of-hearing people and also for people who cannot speak.
+
 The **ASL to Text Converter** is a project aimed at translating American Sign Language (ASL) hand gestures into written text. This tool leverages machine learning and computer vision techniques to interpret sign language and provide accurate translations, making communication more accessible for deaf and hard-of-hearing individuals.
 
 ## 🚀 Features
@@ -71,8 +74,6 @@ The process of developing the ASL to Text Converter involves three main steps: d
 
 
 
-
-
 ## 🤝 Contributors
 
 - [@Chirayu Dodiya](https://github.com/ChirayuDodiya)
@@ -82,7 +83,47 @@ The process of developing the ASL to Text Converter involves three main steps: d
 - [@Harshil Vasava](https://github.com/harshilV14)
 
 
-## Demo
+## 🎥 Demo
 
-Insert gif or link to demo
+In this section, we provide a demonstration of the ASL to Text Converter. Below are the steps to showcase how the application works, along with visual aids.
+
+### How to Use the ASL to Text Converter
+
+1. **Start the Application**:
+   - Run the `test.py` script to initiate the application.
+   - Ensure your webcam is connected and accessible.
+
+2. **User Interface**:
+   - Upon running, a window will open showing the live feed from your webcam.
+
+3. **Perform ASL Signs**:
+   - Position your hand in front of the camera and perform the ASL signs.
+   - The model will recognize the sign in real-time and display the corresponding letter on the screen.
+
+### Example Demonstration
+
+#### Sample Signs:
+
+| ASL Sign | Description                     |
+|----------|---------------------------------|
+| ![A](link_to_A_sign_image) | ASL Sign for Letter A             |
+| ![B](link_to_B_sign_image) | ASL Sign for Letter B             |
+| ![C](link_to_C_sign_image) | ASL Sign for Letter C             |
+
+#### Video Demonstration
+
+Watch the following video to see the ASL to Text Converter in action:
+
+[![ASL to Text Demo](link_to_video_thumbnail)](link_to_full_video)
+
+### Notes
+
+- Ensure you are in a well-lit area for better gesture recognition.
+- If the model does not recognize your signs accurately, consider retraining the model with more diverse data samples.
+
+### Feedback
+
+We welcome feedback! If you have any suggestions or issues, please open an issue on our GitHub repository.
+
+
 
