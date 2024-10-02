@@ -1,5 +1,5 @@
 
-# 🤟 ASL to Text
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&center=true&width=435&lines=%F0%9F%A4%9F+ASL+to+Text+)](https://git.io/typing-svg)
 
 **Communication** is the act of transferring information from one place to another. Being able to communicate effectively is perhaps the most important of all life skills. It is what enables us to pass information to other people, and to understand what is said to us.
 Sign languages are an extremely important communication tool for many deaf and hard-of-hearing people and also for people who cannot speak.
@@ -74,6 +74,14 @@ The process of developing the ASL to Text Converter involves three main steps: d
 
 
 
+## 🤝 Contributors
+
+- [@Chirayu Dodiya](https://github.com/ChirayuDodiya)
+- [@Mayank](https://github.com/likemacc)
+- [@Nandini Gadhvi](https://github.com/NadiniGadhvi)
+- [@Abhishek Guna](https://github.com/HINOKAM-ii)
+- [@Harshil Vasava](https://github.com/harshilV14)
+
 
 ## 🎥 Demo
 
@@ -113,16 +121,9 @@ Watch the following video to see the ASL to Text Converter in action:
 - Ensure you are in a well-lit area for better gesture recognition.
 - If the model does not recognize your signs accurately, consider retraining the model with more diverse data samples.
 
+### Feedback
 
-## 🤝 Contributors
-
-- [@Chirayu Dodiya](https://github.com/ChirayuDodiya)
-- [@Mayank](https://github.com/likemacc)
-- [@Nandini Gadhvi](https://github.com/NadiniGadhvi)
-- [@Abhishek Guna](https://github.com/HINOKAM-ii)
-- [@Harshil Vasava](https://github.com/harshilV14)
-
-
+We welcome feedback! If you have any suggestions or issues, please open an issue on our GitHub repository.
 
 
 
